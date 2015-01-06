@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\SKOLSAKER\Iterativ fall 1\bin\Debug\Iterativ fall 1.exe.config
+C:\Users\Martin\Desktop\SKOLSAKER\Iterativ fall 1\bin\Debug\Iterativ fall 1.exe
+C:\Users\Martin\Desktop\SKOLSAKER\Iterativ fall 1\bin\Debug\Iterativ fall 1.pdb
+C:\Users\Martin\Desktop\SKOLSAKER\Iterativ fall 1\obj\Debug\Iterativ fall 1.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\SKOLSAKER\Iterativ fall 1\obj\Debug\Iterativ fall 1.exe
+C:\Users\Martin\Desktop\SKOLSAKER\Iterativ fall 1\obj\Debug\Iterativ fall 1.pdb
